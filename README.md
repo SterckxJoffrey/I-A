@@ -12,3 +12,5 @@
 - Déploiement d'aplication directement depuis windsurf
 - Ils peuvent églement prendre le contexte depuis ton terminal pour te proposer des modifications
 
+
+Exemple : https://windsurf.com/
