@@ -30,6 +30,12 @@ button.addEventListener("click", () => {
 })
 
 
+/**
+ * Create a list item element representing a task.
+ *
+ * @param {{texte: string, done?: boolean}} task - Task object with text in `texte` and optional `done` flag.
+ * @returns {HTMLLIElement} The created `<li>` element containing a `<p>` with the task text; the `<p>` has the `done` class if `task.done` is true.
+ */
 function newTaskDOM (taches) {
 
 let liste = document.createElement('li')
