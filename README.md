@@ -12,5 +12,9 @@
 - Déploiement d'aplication directement depuis windsurf
 - Ils peuvent églement prendre le contexte depuis ton terminal pour te proposer des modifications
 
+## Princing
+- Version gratuite qui permet de faire 25 prompts par moi via différent agent (OpenIA, Claude, Gemini, ...)
+- Version pro : 15$ / mois : 500 prompts par moi
+
 
 Exemple : https://windsurf.com/
