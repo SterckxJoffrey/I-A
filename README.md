@@ -12,6 +12,7 @@
 - Déploiement d'aplication directement depuis windsurf
 - Ils peuvent églement prendre le contexte depuis ton terminal pour te proposer des modifications
 - Promet de coder plus vite
+- Créé selon eux pour que les agences gouvernementales américaines et leurs partenaires puissent coder plus vite, mieux et en toute sécurité, en respectant les normes de sécurité les plus strictes.
 
 ## Princing
 - Version gratuite qui permet de faire 25 prompts par moi via différent agent (OpenIA, Claude, Gemini, ...)
