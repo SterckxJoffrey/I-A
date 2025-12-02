@@ -11,6 +11,7 @@
 - Plugin qui permettent l'auto-complétion, que ça soit pour des fonctions, classes, ou fichier entier
 - Déploiement d'aplication directement depuis windsurf
 - Ils peuvent églement prendre le contexte depuis ton terminal pour te proposer des modifications
+- Promet de coder plus vite
 
 ## Princing
 - Version gratuite qui permet de faire 25 prompts par moi via différent agent (OpenIA, Claude, Gemini, ...)
